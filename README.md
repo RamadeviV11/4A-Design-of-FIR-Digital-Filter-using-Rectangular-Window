@@ -204,9 +204,16 @@ xlabel( ' Normalized Digital Frequency W' );
 ylabel( 'Magnitude in dB'); 
 title('Frequency Response of FIR BSF using Rectangular Window'); 
 ```
+# CALCULATION:
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a061fd51-2fbe-4c20-be8a-81731e5543c4" />
 
 
 # OUTPUT: 
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2151ec3f-2d24-4c31-bcf4-76ae67b9e7ea" />
+<img width="558" height="511" alt="image" src="https://github.com/user-attachments/assets/a70e8020-495b-4de5-8b92-ac79b5e077c8" />
+
 
 
 # RESULT: 
